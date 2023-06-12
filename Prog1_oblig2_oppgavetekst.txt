@@ -1,0 +1,55 @@
+Oppgave 1
+a) Lag en liste som inneholder fem valgfrie dyr (Strenger). Skriv så ut alle elementene i listen på hver sin linje.
+b) Deretter skal du gi dyrene navn. Navnene skal du legge i en ny liste. Skriv så ut navnet på dyret og hvilket type
+dyr det er på hver sin linje. Eks: ”Gjermund is a horse”.
+
+
+Oppgave 2
+a) Ta listen din med dyr fra forrige oppgave og skriv ut det første og det siste elementet i listen.
+b) Skriv ut listen med dyr i reversert alfabetisk rekkefølge.
+Oppgave 3
+my_list = [ ”H” , ” I ” , ”O” , ”F ” ]
+my_string1 = ”H:I:O:F”
+my_string2 = ”HIOF”
+a) Konverter den første listen til en streng som sier HIOF
+b) Konverter my string1 til en liste som ser slik ut: [”H”, ”I”, ”O”, ”F”]
+c) Konverter my string2 til en liste som ser slik ut: [”H”, ”I”, ”O”, ”F”]
+
+Oppgave 4
+a) Bruk en loop til å skrive ut ”Hello World” 5 ganger.
+b) Utvid programmet slik at du skriver ut hvilken nr hver utskrift har. DVS ”1. Hello World”, ”2. Hello World” OSV.
+
+Oppgave 5
+Skriv et program som skriver ut alle partall fra of med 10 til 25. Lag programmet med b˚ade en for loop og med en while
+loop.
+
+Oppgave 6
+Rente kalkulator. Siv har lyst på en Toyota Hilux AT 37 med tusenmetere og veltebøyler. Bilen koster 600 000. Den
+har hun ikke råd til. Hun føler seg dermed tvunget til å ta opp et lån på 600 000. Siv skal betale ned på lånet en gang
+i året. Nedbetalingstid er på 7 år og rente på 6.0%. Kalkuler hvor mye bilen kommer til å koste totalt og hvor mye hun
+må betale hvert år. Rund ned svarene dine til to desimaler.
+Hint: Hun har en årlig nedbetaling + rentene for det året.
+
+Oppgave 7
+a) I denne oppgaven skal du simulere et dart spill. I dette dart spillet skal du kunne velge hvor mange spillere som skal
+spille(Ta dette som input fra brukeren). Hver spiller skal kaste 5 piler hver runde. Hver gang man kaster en pil har
+man mulighet til å få mellom 0 og 50 poeng. Spilleren skal kaste alle 5 pilene før neste spiller skal kaste. Skriv ut
+resultat etter en simulering. Bruk random.randrange(FROM, TO) for ˚a generere en score hver gang noen kaster.
+
+b) (Valgfri) Utvid programmet til å ta imot antall piler hver spiller skal kaste.
+
+Oppgave 8
+my_list = [ [ 1 , 0 , 1 , 0 ] , [ 0 , 1 , 1 , 0 ] , [ 0 , 1 , 1 , 1 ] ]
+1 0 1 0
+0 1 1 0
+0 1 1 1
+0 0 0 1
+a) Skriv ut my list slik at den ser ut som matrisen ovenfor.
+
+b) Et binært bilde kan være representert som matrisen ovenfor. Dette bildet ville da vært 4 x 4 piksler. Bruk list-slicing
+til å gjøre om bildet til et 4 x 2 bilde. (fjern den øverste og nederste raden) Skriv ut bildene slik som i oppgave a.
+
+Oppgave 9
+Gjøre om ordet ”Høgskolen i Østfold” til en liste, og skriv ut listen til konsollen. DVS [”H”, ”Ø”, ”G”, ”S”, ”K”,
+”O”... osv ]. Bruk et prinsipp som heter list comprehensions. Les om dette her: https://www.programiz.com/
+python-programming/list-comprehension
