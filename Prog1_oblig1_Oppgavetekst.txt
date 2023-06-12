@@ -1,0 +1,34 @@
+Oppgave 1
+Lag to variabler, en som inneholder ”Hello” og en som inneholder ”world”. Skriv s˚a ut variablene slik at ”hello world”
+blir skrevet ut i konsollen.
+
+Oppgave 2
+Lag et program som tar navnet ditt som input fra brukeren og lagrer det i en variabel, gjør så det samme med alderen din.
+Trekk fra 15 fra alderen din.
+Skriv så ut strengen ”Mitt navn er (ditt navn) og jeg er (din alder - 15) år”
+
+Oppgave 3
+La oss si at Aremarks befolkning er på 1408 personer og at komunens størrelse er 319 kvadratkilometer.
+Lag et program som kalkulerer hvor mange innbyggere per kvadratkilometer det er i Aremark.
+Hvilken datatype har svaret ditt?(dvs integer, float, string?)
+
+Oppgave 4
+Lag en mini-kalkulator. Ta to tall som input fra brukeren. Skriv ut resultatet av (*), (/), (+), (-), (%), (**) og (//)
+mellom de to tallene.
+
+Oppgave 5
+Lag tre variabler a = 6, b = 4, c = 2.
+Lag et program som regner ut resultatene av følgende regnestykker og skriver ut svaret.
+a) a * b + c
+b) a * (b + c)
+c) a / b / c
+d) a / (b / c)
+
+Oppgave 6
+Lag et program som konverterer en temperatur fra Celsius til Fahrenheit.
+Ta temperaturen i Celsius som input fra brukeren. Skriv så tallet ut i Fahrenheit.
+
+Tallet skal blir skrevet ut som et flyttall(float) med 2 desimaler.
+Formelen for konvertering fra Celsius til Fahrenheit ser slik ut:
+Temp_(Fahrenheit)= Temp_(Celsius) ∗ 1.8 + 32
+Dette vil si at hvis input er 20 så skal programmet returnere 68.0
